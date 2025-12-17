@@ -1,63 +1,80 @@
 
-
-## Hi there, I'm Akhilesan 👋
+## Hi there, I'm Akhilesan👋  
 
 <div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Aspiring+Data+Analyst+%7C+Finance+Background;Excel+%7C+SQL+%7C+Power+BI+%7C+Python;Turning+Raw+Data+into+Business+Insights" alt="Typing SVG" />
 </div>
 
-<!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/akhilesan-ap/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="apakhilesan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/akhilesan-ap/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:apakhilesan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail">
+  </a>
 </p>
 
-## 🚀 About Me 
-I'm a beginner Data Analyst with a strong interest in understanding how data can solve real business problems.
-Coming from a finance background, I'm now learning tools like Python, SQL, Excel, and Power BI, and applying them through small, practical projects to build my foundation.
-I enjoy exploring datasets, cleaning data, creating simple dashboards, and improving my skills one step at a time.
-My goal is to grow steadily into a confident Data Analyst by staying consistent, learning from every project, and building a portfolio that reflects my progress and passion for analytics.
+---
 
-When I'm not working with data, I enjoy workouts. I love the “aha!” moment when data reveals something new and useful, and that curiosity keeps me motivated to learn more every day.
+## 🚀 About Me  
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
-      
-## 🔭 What I'm Currently Working On 
+I’m an **aspiring Data Analyst with a finance background (BCom & MCom Finance)**, currently building strong foundations in **Excel, SQL, Power BI, and Python**.
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+I focus on:
+- Cleaning and structuring raw data  
+- Analyzing trends and KPIs  
+- Creating clear dashboards and insights for business decision-making  
 
-## 🌱 Currently Learning 
+I enjoy the moment when messy data suddenly *makes sense* and tells a story. My goal is to grow into a confident analyst by working on **real-world datasets**, strengthening fundamentals, and building a portfolio that recruiters can trust.
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+When I’m not working with data, I enjoy workouts and continuous self-improvement.
 
-## 🛠️ Technical Skillset
+---
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+## 🔭 Featured Projects  
 
-#### Data Analysis & Visualization
+🔹 **E-commerce Sales Analysis (Excel & Power BI)**  
+- Analyzed sales performance, customer behavior, and order trends  
+- Built interactive dashboards to track revenue, growth, and KPIs  
+
+🔹 **Customer Churn Analysis (SQL & Excel)**  
+- Used SQL queries to identify churn patterns  
+- Segmented customers and highlighted retention insights  
+
+🔹 **Marketing Campaign Performance Analysis (Python)**  
+- Evaluated ROI, conversion rates, and engagement metrics  
+- Used Python (Pandas, Matplotlib) for analysis and visualization  
+
+➡️ More projects coming as I continue learning and experimenting.
+
+---
+
+## 🌱 Currently Learning  
+
+- Advanced SQL for analytics (joins, subqueries, window functions)  
+- Power BI data modeling and DAX basics  
+- Python for data analysis (Pandas, NumPy, visualization)  
+- Statistics fundamentals for business decision-making  
+
+---
+
+## 🛠️ Technical Skills  
+
+### 📊 Data Analysis & Visualization  
 <p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+  <img src="https://img.shields.io/badge/Excel-Intermediate-217346?style=flat&logo=microsoft-excel&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=black">
 </p>
 
-#### Programming & Automation
+### 🐍 Programming  
 <p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+  <img src="https://img.shields.io/badge/Python-Beginner--Intermediate-3776AB?style=flat&logo=python&logoColor=white">
 </p>
 
-#### Business Intelligence & Analytics
+### 📈 Analytics Concepts  
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/Data%20Cleaning-Experienced-4ECDC4?style=flat">
+  <img src="https://img.shields.io/badge/KPI%20Analysis-Experienced-96CEB4?style=flat">
+  <img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-Experienced-FF6B6B?style=flat">
 </p>
